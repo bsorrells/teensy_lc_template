@@ -1,0 +1,13 @@
+{
+	"folders": [
+        {
+            "name": "teensy_lc_template",
+            "path": "."
+        },
+        {
+            "name": "teensy3",
+            "path": "../../../../Applications/Teensyduino.app/Contents/Java/hardware/teensy/avr/cores/teensy3"
+        }
+    ],
+    "settings": {}
+}
